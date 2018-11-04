@@ -1,2 +1,2 @@
-Maze written in java
+#Maze written in java
 
